@@ -128,7 +128,7 @@ I'm particularly interested in working on projects where I can **learn from expe
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/x_FrizBy_x">
+  <a href="https://github.com/x-FrizBy-x">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/oleksandr-gordieiev-60a1943b2/">
