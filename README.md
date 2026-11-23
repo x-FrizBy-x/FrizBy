@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oleksandr Gordieiev
+# 👋 Hi, I'm Oleksandr
 
 ### 💻 Full-Stack Developer | AI & LLM Engineering | Informatics @ TU Wien
 
